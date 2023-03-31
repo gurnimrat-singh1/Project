@@ -1,4 +1,4 @@
-print('Namaste Reader!This is a random story generator by Shushant Kumar ')
+print('Namaste Reader!This is a random story generator by Gurkeerat Singh')
 import random
 
 
